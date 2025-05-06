@@ -48,7 +48,7 @@
   margin-top: 128px;
   margin-bottom: 32px;
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
 }
 
 .header__title {
@@ -57,6 +57,7 @@
   font-weight: 500;
   max-width: 635px;
   display: flex;
+  margin-top: 10px;
 }
 
 .header__description {
@@ -64,6 +65,7 @@
   line-height: 30px;
   max-width: 515px;
   display: flex;
+  margin-top: 20px;
 }
 
 .header__image {
@@ -111,6 +113,7 @@
   font-weight: 400;
   margin: 0;
   color: #ffffff;
+  margin-bottom: 68px;
 }
 
 .staff__cards{
@@ -145,6 +148,8 @@
   line-height: 30px;
   font-weight: 700;
   margin: 0;
+  text-align: left;
+  margin-bottom: auto;
 }
 
 .card__text {
@@ -152,6 +157,7 @@
   font-size: 16px;
   line-height: 24px;
   display: contents;
+  text-align: justify;
 }
 
 .card__footer {
