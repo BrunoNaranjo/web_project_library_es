@@ -57,7 +57,7 @@
   font-weight: 500;
   max-width: 635px;
   display: flex;
-  margin-top: 10px;
+  margin-top: auto;
 }
 
 .header__description {
@@ -65,7 +65,7 @@
   line-height: 30px;
   max-width: 515px;
   display: flex;
-  margin-top: 20px;
+  margin-top: auto;
 }
 
 .header__image {
@@ -118,13 +118,13 @@
 
 .staff__cards{
   max-width:760px;
-  margin: auto;
+  margin: 68px auto 0;
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-evenly;
+  justify-content: center;
   gap: 40px;
-  list-style-type: none;
   padding-left: 0;
+  list-style-type: none;
 }
 
 .card {
