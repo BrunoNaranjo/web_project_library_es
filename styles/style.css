@@ -88,7 +88,7 @@
   color: #838383;
 }
 .staff {
-  background-image: url("../images/staff_picks_background.jpg") !important;
+  background-image: url("../images/staff_picks_background.jpg");
   padding: 100px 0 140px;
   background: no-repeat;
   background-position: 50% 50%;
