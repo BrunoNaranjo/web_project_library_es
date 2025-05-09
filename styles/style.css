@@ -48,7 +48,6 @@
   margin-top: 128px;
   margin-bottom: 32px;
   display: flex;
-  justify-content: center;
 }
 
 .header__title {
@@ -57,7 +56,6 @@
   font-weight: 500;
   max-width: 635px;
   display: flex;
-  margin-top: auto;
 }
 
 .header__description {
@@ -65,7 +63,6 @@
   line-height: 30px;
   max-width: 515px;
   display: flex;
-  margin-top: auto;
 }
 
 .header__image {
