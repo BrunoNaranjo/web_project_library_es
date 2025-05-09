@@ -45,9 +45,8 @@
 }
 
 .header__content {
-  margin-top: 128px;
-  margin-bottom: 32px;
   display: flex;
+  justify-content: space-between;
 }
 
 .header__title {
@@ -55,14 +54,14 @@
   line-height: 76px;
   font-weight: 500;
   max-width: 635px;
-  display: flex;
+  margin-top: 128px;
 }
 
 .header__description {
   font-size: 20px;
   line-height: 30px;
   max-width: 515px;
-  display: flex;
+  margin: 32px 0 50px;
 }
 
 .header__image {
@@ -76,7 +75,7 @@
   align-items: center;
   justify-content: flex-end;
   box-sizing: border-box;
-  margin-top: 6vw;
+  margin-top: auto;
 }
 
 .header__link {
