@@ -345,6 +345,7 @@
 
 .footer__cover {
   width: 100%;
+  position: relative;
 }
 
 .footer__columns {
